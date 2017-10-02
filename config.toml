@@ -1,0 +1,4 @@
+baseURL = "http://liro.ca/test-netlify"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
